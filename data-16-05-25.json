@@ -1,91 +1,91 @@
 [
   {
     "name": "SWETER LANILLA ANGORA c/ PUNTILLA",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISA ENGOMADA c/ ENCAJE Y BOTONES METÁLICOS",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISA ENGOMADA c/ ENCAJE Y BOTONES METÁLICOS",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISA ENGOMADA c/ ENCAJE Y BOTONES METÁLICOS",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "TAPADO DE CORDERITO VIFAS",
-    "price": "ARS 14,500.00",
+    "price": 14500,
     "size": 3,
     "color": "Violeta",
     "stock": 10
   },
   {
     "name": "TAPADO DE CORDERITO VIFAS",
-    "price": "ARS 14,500.00",
+    "price": 14500,
     "size": 4,
     "color": "Violeta",
     "stock": 10
   },
   {
     "name": "TAPADO DE CORDERITO VIFAS",
-    "price": "ARS 14,500.00",
+    "price": 14500,
     "size": 4,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "POLERA LANILLA MORLEY",
-    "price": "ARS 8,000.00",
+    "price": 8000,
     "size": 4,
     "color": "Naranja",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY",
-    "price": "ARS 7,500.00",
+    "price": 7500,
     "size": 4,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "POLERON DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Rosa",
     "stock": 0
   },
   {
     "name": "POLERON DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "POLERON DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "POLERON DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Gris oscuro",
     "stock": 10
@@ -93,196 +93,196 @@
 ,
   {
     "name": "BODY DE TUL BRILLOSO",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 3,
     "color": "Verde petroleo",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Verde petroleo",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA COMBINADO c/ LINEAS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 5,
     "color": "Verde petroleo",
     "stock": 0
   },
   {
     "name": "BUZO VESTIDO DE LANILLA c/ ENCAJE Y CAPUCHA",
-    "price": "ARS 13,300.00",
+    "price": 13300,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL VISCOSA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL VISCOSA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 3,
     "color": "Beige oscuro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL VISCOSA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 4,
     "color": "Beige oscuro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL VISCOSA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 5,
     "color": "Beige oscuro",
     "stock": 10
   },
   {
     "name": "BODY DE TUL BRILLOSO",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY DE TUL BRILLOSO",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY DE TUL BRILLOSO",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO ENCAJE PAISANA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO ENCAJE PAISANA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY CUELLO PAISANA",
-    "price": "ARS 9,500.00",
+    "price": 9500,
     "size": 2,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY CUELLO PAISANA",
-    "price": "ARS 9,500.00",
+    "price": 9500,
     "size": 2,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY CUELLO PAISANA",
-    "price": "ARS 9,500.00",
+    "price": 9500,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO CHOMBA LANILLA ANGORA",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 2,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "VESTIDO CHOMBA LANILLA ANGORA",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 3,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "VESTIDO CHOMBA LANILLA ANGORA",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 4,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "VESTIDO CHOMBA LANILLA ANGORA",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 5,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "CHOMBA DE ALGODÓN TUL c/ BRILLO",
-    "price": "ARS 14,200.00",
+    "price":14200,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CHOMBA DE ALGODÓN TUL c/ BRILLO",
-    "price": "ARS 14,200.00",
+    "price":14200,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CHOMBA DE ALGODÓN TUL c/ BRILLO",
-    "price": "ARS 14,200.00",
+    "price":14200,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CHOMBA DE ALGODÓN TUL c/ BRILLO",
-    "price": "ARS 14,200.00",
+    "price":14200,
     "size": 5,
     "color": "Negro",
     "stock": 10
@@ -290,196 +290,196 @@
 ,
   {
     "name": "BUZO VESTIDO DE LANILLA c/ ENCAJE Y CAPUCHA",
-    "price": "ARS 13,300.00",
+    "price": 13300,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "REMERA PRINCESA DE MODAL VISCOSA",
-    "price": "ARS 8,500.00",
+    "price": 8500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "REMERA PRINCESA DE MODAL VISCOSA",
-    "price": "ARS 8,500.00",
+    "price": 8500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER WUAFLE COMBINADO ANIMAL PRINT c/ PUNTILLA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER WUAFLE COMBINADO ANIMAL PRINT c/ PUNTILLA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER WUAFLE COMBINADO ANIMAL PRINT c/ PUNTILLA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Beige",
     "stock": 10
   },
   {
     "name": "SWETER WUAFLE COMBINADO ANIMAL PRINT c/ PUNTILLA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Beige",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 3,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 4,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 5,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "VESTIDO INTIWAY",
-    "price": "ARS 21,000.00",
+    "price":21000,
     "size": 3,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "CAMISETA MAGNOLIA MODAL SOF",
-    "price": "ARS 5,500.00",
+    "price": 5500,
     "size": 3,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAMISETA MAGNOLIA MODAL SOF",
-    "price": "ARS 5,500.00",
+    "price": 5500,
     "size": 4,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAMISETA MAGNOLIA MODAL SOF",
-    "price": "ARS 5,500.00",
+    "price": 5500,
     "size": 5,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL c/ TUL",
-    "price": "ARS 9,800.00",
+    "price": 9800,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL c/ TUL",
-    "price": "ARS 9,800.00",
+    "price": 9800,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MODAL VISCOSA COMBINADO c/ PRINT",
-    "price": "ARS 9,500.00",
+    "price": 9500,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 2,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 3,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 4,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "MONO PUNTILLA MORLEY",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 5,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "BODY DE CREP c/ TUL EN LA ESPALDA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY DE CREP c/ TUL EN LA ESPALDA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY DE CREP c/ TUL EN LA ESPALDA",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 5,
     "color": "Negro",
     "stock": 10
@@ -487,217 +487,217 @@
 ,
   {
     "name": "CAMISETA MORLEY VISCOSA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY VISCOSA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA MORLEY VISCOSA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LUNAR DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Gris tipo",
     "stock": 10
   },
   {
     "name": "SWETER LUNAR DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LUNAR DE LANA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Verde militar",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 1,
     "color": "Chocolate",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 1,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 1,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 1,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 1,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 2,
     "color": "Chocolate",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 2,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 2,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 2,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Chocolate",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 4,
     "color": "Chocolate",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 4,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 4,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 5,
     "color": "Chocolate",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 5,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 5,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 5,
     "color": "Gris",
     "stock": 10
@@ -705,518 +705,518 @@
 ,
   {
     "name": "OFERTA!! JARDINERO DE BENGALINA",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 2,
     "color": "Verde militar",
     "stock": 10
   },
   {
     "name": "OFERTA!! JARDINERO DE BENGALINA",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 3,
     "color": "Verde militar",
     "stock": 10
   },
   {
     "name": "OFERTA!! JARDINERO DE BENGALINA",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 3,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAMPERA ENGOMADO c/ PAÑO Y BROCHES",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA ENGOMADO c/ PAÑO Y BROCHES",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA ENGOMADO c/ PAÑO Y BROCHES",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA ENGOMADO c/ PAÑO Y BROCHES",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 4,
     "color": "Azul francia",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 5,
     "color": "Azul francia",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 3,
     "color": "Gris topo",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 4,
     "color": "Gris topo",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 5,
     "color": "Gris topo",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 3,
     "color": "Abano",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 4,
     "color": "Abano",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA BRUCH c/ BOTÓN",
-    "price": "ARS 11,300.00",
+    "price": 11300,
     "size": 5,
     "color": "Abano",
     "stock": 10
   },
   {
     "name": "MAXI PALAZO WUAFLE",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 2,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "VESTIDO DE LANILLA C/RED",
-    "price": "ARS 11,000.00",
+    "price": 11000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 3,
     "color": "Rojo",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 4,
     "color": "Rojo",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 5,
     "color": "Rojo",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ LENTEJUELAS",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA HOMBRO c/ VOLADO",
-    "price": "ARS 5,000.00",
+    "price": 5000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA HOMBRO c/ VOLADO",
-    "price": "ARS 5,000.00",
+    "price": 5000,
     "size": 2,
     "color": "Azul",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 4,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 5,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 6,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 3,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 4,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "CAPA LANILLA MORLEY c/ OJALILLOS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 5,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA c/ CADENA",
-    "price": "ARS 5,000.00",
+    "price": 5000,
     "size": 4,
     "color": "Uva",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA c/ CADENA",
-    "price": "ARS 5,000.00",
+    "price": 5000,
     "size": 4,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "BUZO DE FRIZA c/ OJALILLOS",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 3,
     "color": "Gris melange",
     "stock": 10
   },
   {
     "name": "BUZO DE FRIZA c/ OJALILLOS",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 3,
     "color": "Rosa viejo",
     "stock": 10
   },
   {
     "name": "BUZO DE FRIZA c/ OJALILLOS",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 4,
     "color": "Rosa viejo",
     "stock": 10
   },
   {
     "name": "CAMPERA DARLON LISO c/ CIERRE Y MANGAS DE TUL",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Verde",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 4,
     "color": "Verde",
     "stock": 0
   },
   {
     "name": "SWETER LANILLA ANGORA c/ DOBLE MANGA",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 5,
     "color": "Verde",
     "stock": 0
   },
   {
     "name": "MONO DE LENTEJUELAS c/ LUREX",
-    "price": "ARS 29,000.00",
+    "price": 29000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO DE LENTEJUELAS c/ LUREX",
-    "price": "ARS 29,000.00",
+    "price": 29000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO DE LENTEJUELAS c/ LUREX",
-    "price": "ARS 29,000.00",
+    "price": 29000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO DE LENTEJUELAS c/ LUREX",
-    "price": "ARS 29,000.00",
+    "price": 29000,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 1,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 2,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 5,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 1,
     "color": "Camel",
     "stock": 0
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 2,
     "color": "Camel",
     "stock": 0
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 3,
     "color": "Camel",
     "stock": 0
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 4,
     "color": "Camel",
     "stock": 0
   },
   {
     "name": "SACO LANA FRIZ c/ BOLSILLO",
-    "price": "ARS 15,000.00",
+    "price": 15000,
     "size": 5,
     "color": "Camel",
     "stock": 0
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 3,
     "color": "Print claro",
     "stock": 10
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 4,
     "color": "Print claro",
     "stock": 10
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 5,
     "color": "Print claro",
     "stock": 10
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 3,
     "color": "Print oscuro",
     "stock": 10
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 4,
     "color": "Print oscuro",
     "stock": 10
   },
   {
     "name": "CAMPERA PRINT LYCRA FRIZADA COMBINADO c/ ENGOMADO",
-    "price": "ARS 20,000.00",
+    "price": 20000,
     "size": 5,
     "color": "Print oscuro",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Celeste",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Maiz",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Verde botella",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SWETER LANA FRIZ",
-    "price": "ARS 14,000.00",
+    "price": 14000,
     "size": 4,
     "color": "Rosa",
     "stock": 10
@@ -1224,56 +1224,56 @@
 ,
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 2,
     "color": "Linea Print",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 3,
     "color": "Linea Print",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 4,
     "color": "Linea Print",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 2,
     "color": "Linea blanca",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 3,
     "color": "Linea blanca",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 4,
     "color": "Linea blanca",
     "stock": 10
   },
   {
     "name": "PANTALON c/ TRES LINEAS",
-    "price": "ARS 13,500.00",
+    "price": 13500,
     "size": 5,
     "color": "Linea blanca",
     "stock": 10
   },
   {
     "name": "CHALECO DE CORDERO",
-    "price": "ARS 17,500.00",
+    "price": 17500,
     "size": 2,
     "color": "Negro",
     "stock": 10
@@ -1281,856 +1281,856 @@
 ,
   {
     "name": "VESTIDO DE LENTEJUELAS c/ FORRO",
-    "price": "ARS 22,500.00",
+    "price":22500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO DE LENTEJUELAS c/ FORRO",
-    "price": "ARS 22,500.00",
+    "price":22500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO DE LENTEJUELAS c/ FORRO",
-    "price": "ARS 22,500.00",
+    "price":22500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO DE LENTEJUELAS c/ FORRO",
-    "price": "ARS 22,500.00",
+    "price":22500,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 2,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 3,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 4,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 5,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 2,
     "color": "Print",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 3,
     "color": "Print",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 4,
     "color": "Print",
     "stock": 10
   },
   {
     "name": "PALAZO c/ LINEA DARLON",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "size": 5,
     "color": "Print",
     "stock": 10
   },
   {
     "name": "REMERA MODAL VISCOSA c/ TUL DE BRILLO DORADO",
-    "price": "ARS 8,500.00",
+    "price": 8500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "REMERA MODAL VISCOSA c/ TUL DE BRILLO DORADO",
-    "price": "ARS 8,500.00",
+    "price": 8500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BABUCHA COMBINADA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BABUCHA COMBINADA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BABUCHA COMBINADA",
-    "price": "ARS 11,500.00",
+    "price": 11500,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE LENTEJUELA",
-    "price": "ARS 18,400.00",
+    "price": 18400,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE LENTEJUELA",
-    "price": "ARS 18,400.00",
+    "price": 18400,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE LENTEJUELA",
-    "price": "ARS 18,400.00",
+    "price": 18400,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CALZA c/ ENCAJE DE BENGALINA",
-    "price": "ARS 10,800.00",
+    "price": 10800,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CALZA c/ ENCAJE DE BENGALINA",
-    "price": "ARS 10,800.00",
+    "price": 10800,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CALZA c/ ENCAJE DE BENGALINA",
-    "price": "ARS 10,800.00",
+    "price": 10800,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CALZA c/ ENCAJE DE BENGALINA",
-    "price": "ARS 10,800.00",
+    "price": 10800,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO LANILLA c/ TIRA Y ENCAJE",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "VESTIDO LANILLA c/ TIRA Y ENCAJE",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA ELASTIZADO",
-    "price": "ARS 9,700.00",
+    "price": 9700,
     "size": 3,
     "color": "Verde militar",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA ELASTIZADO",
-    "price": "ARS 9,700.00",
+    "price": 9700,
     "size": 4,
     "color": "Verde militar",
     "stock": 10
   },
   {
     "name": "BODY ENCAJE",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY ENCAJE",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 3,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "BODY ENCAJE",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "BODY ENCAJE",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 5,
     "color": "Rojo",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Fucsia",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "DISPONIBLE BUZO DE LANILLA C/PRINK",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "BODY MODAL SOF c/ CAPUCHA",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY MODAL SOF c/ CAPUCHA",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY MODAL SOF c/ CAPUCHA",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 2,
     "color": "Verde limón",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 3,
     "color": "Verde limón",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 4,
     "color": "Verde limón",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 5,
     "color": "Verde limón",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 6,
     "color": "Verde limón",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 2,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 5,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 6,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALON BENGALINA OXFORD",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA MANGA PRINCESA BENGALINA ENGOMADA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 4,
     "color": "Verde lechuga",
     "stock": 10
   },
   {
     "name": "CAMPERA MANGA PRINCESA BENGALINA ENGOMADA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA MANGA PRINCESA BENGALINA ENGOMADA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA MANGA PRINCESA BENGALINA ENGOMADA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA MANGA PRINCESA BENGALINA ENGOMADA",
-    "price": "ARS 17,000.00",
+    "price": 17000,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY MODAL VISCOSA c/ TUL DE PUNTOS DORADOS",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY ENGOMADO c/ TUL",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY ENGOMADO c/ TUL",
-    "price": "ARS 10,500.00",
+    "price": 10500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA DE PAÑO BUCLE c/ PRINT",
-    "price": "ARS 24,000.00",
+    "price":24000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA DE PAÑO BUCLE c/ PRINT",
-    "price": "ARS 24,000.00",
+    "price":24000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA DE PAÑO BUCLE c/ PRINT",
-    "price": "ARS 24,000.00",
+    "price":24000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "CAMPERA DE PAÑO BUCLE c/ PRINT",
-    "price": "ARS 24,000.00",
+    "price":24000,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "CAMPERA DE PAÑO BUCLE c/ PRINT",
-    "price": "ARS 24,000.00",
+    "price":24000,
     "size": 5,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "CALZA DE VISCOSA FRIZADA",
-    "price": "ARS 7,500.00",
+    "price": 7500,
     "size": 3,
     "color": "Beige",
     "stock": 10
   },
   {
     "name": "CALZA DE VISCOSA FRIZADA",
-    "price": "ARS 7,500.00",
+    "price": 7500,
     "size": 4,
     "color": "Beige",
     "stock": 10
   },
   {
     "name": "CALZA DE VISCOSA FRIZADA",
-    "price": "ARS 7,500.00",
+    "price": 7500,
     "size": 3,
     "color": "Rosa",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE ALGODON",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE ALGODON",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE ALGODON",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE ALGODON",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA PRINCESA DE ALGODON",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "OFERTA!! JUMPER DE BENGALINA",
-    "price": "ARS 7,000.00",
+    "price": 7000,
     "size": 1,
     "color": "Terracota",
     "stock": 10
   },
   {
     "name": "MONO MANGA LARGA DE AITIWAY c/ LENTEJUELAS Y TUL",
-    "price": "ARS 30,000.00",
+    "price": 30000,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO MANGA LARGA DE AITIWAY c/ LENTEJUELAS Y TUL",
-    "price": "ARS 30,000.00",
+    "price": 30000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "MONO MANGA LARGA DE AITIWAY c/ LENTEJUELAS Y TUL",
-    "price": "ARS 30,000.00",
+    "price": 30000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "Saco lana acrílica",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 1,
     "color": "Marrón",
     "stock": 10
   },
   {
     "name": "Saco lana acrílica",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 2,
     "color": "Marrón",
     "stock": 10
   },
   {
     "name": "Saco lana acrílica",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 3,
     "color": "Marrón",
     "stock": 10
   },
   {
     "name": "Saco lana acrílica",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 4,
     "color": "Marrón",
     "stock": 10
   },
   {
     "name": "Saco lana acrílica",
-    "price": "ARS 16,000.00",
+    "price": 16000,
     "size": 5,
     "color": "Marrón",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 2,
     "color": "Fondo blanco",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Fondo blanco",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 4,
     "color": "Fondo blanco",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 5,
     "color": "Fondo blanco",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 2,
     "color": "Fondo mostaza",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 3,
     "color": "Fondo mostaza",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 4,
     "color": "Fondo mostaza",
     "stock": 10
   },
   {
     "name": "SWETER ESCOTE V DE LANILLA ANGORA  PRINT",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 5,
     "color": "Fondo mostaza",
     "stock": 10
   },
   {
     "name": "SACO DE LANA ACRILICA",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "color": "Beige",
     "stock": 10
   },
   {
     "name": "SACO DE LANA ACRILICA",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SACO DE LANA ACRILICA",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "color": "Camel",
     "stock": 10
   },
   {
     "name": "SACO DE LANA ACRILICA",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "color": "Bordo",
     "stock": 10
   },
   {
     "name": "SACO DE LANA ACRILICA",
-    "price": "ARS 16,500.00",
+    "price": 16500,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "BODY PRINCESA MODAL VISCOSA c/ TUL",
-    "price": "ARS 10,300.00",
+    "price": 10300,
     "size": 2,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY PRINCESA MODAL VISCOSA c/ TUL",
-    "price": "ARS 10,300.00",
+    "price": 10300,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY PRINCESA MODAL VISCOSA c/ TUL",
-    "price": "ARS 10,300.00",
+    "price": 10300,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BODY PRINCESA MODAL VISCOSA c/ TUL",
-    "price": "ARS 10,300.00",
+    "price": 10300,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 1,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 2,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 4,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 1,
     "color": "Camel",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 2,
     "color": "Camel",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 3,
     "color": "Camel",
     "stock": 10
   },
   {
     "name": "SACO LANA c/ BOTON",
-    "price": "ARS 15,500.00",
+    "price": 15500,
     "size": 4,
     "color": "Camel",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA MORLEY",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 3,
     "color": "Verde botella",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA MORLEY",
-    "price": "ARS 10,000.00",
+    "price": 10000,
     "size": 3,
     "color": "Gris",
     "stock": 10
   },
   {
     "name": "SWETER LANILLA c/ PUNTILLA",
-    "price": "ARS 8,000.00",
+    "price": 8000,
     "size": 3,
     "color": "Verde",
     "stock": 10
   },
   {
     "name": "CHALECO DE PAÑO BUCLE",
-    "price": "ARS 18,000.00",
+    "price": 18000,
     "size": 3,
     "color": "Natural",
     "stock": 10
   },
   {
     "name": "CAMISETA CORAZÓN DE ALGODÓN LYCRA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA CORAZÓN DE ALGODÓN LYCRA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMISETA CORAZÓN DE ALGODÓN LYCRA",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALÓN DE BENGALINA c/ BROCHES",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 3,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "PANTALÓN DE BENGALINA c/ BROCHES",
-    "price": "ARS 12,500.00",
+    "price": 12500,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BLUSA DE LUREX",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 4,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BLUSA DE LUREX",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 5,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "BLUSA DE LUREX",
-    "price": "ARS 12,000.00",
+    "price": 12000,
     "size": 6,
     "color": "Negro",
     "stock": 10
   },
   {
     "name": "CAMPERA DE ENCAJE c/ BOLSILLOS",
-    "price": "ARS 13,000.00",
+    "price": 13000,
     "size": 5,
     "color": "Negro",
     "stock": 10
