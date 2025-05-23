@@ -8,7 +8,7 @@ con cuatro secciones:
 - to_remove   : ítems que existen sólo en el JSON viejo
 - unchanged   : ítems idénticos en ambos JSON
 - anomalies   : ítems con el mismo título pero con detalles o precio distintos,
-                o cualquier otra situación ambigua
+                duplicados internos o cualquier situación ambigua
 
 Uso:
     python compare_json.py                # usa nuevo.json y viejo.json en cwd
@@ -57,18 +57,18 @@ def normalize_price(price: str) -> str:
     s = s.replace("ars", "")
     # Mantén dígitos, coma y punto
     s = re.sub(r"[^0-9.,]", "", s)
-    # Si tiene coma como decimal, cambia a punto
+    # Si hay coma decimal y ningún punto decimal, cambia a punto
     if s.count(",") == 1 and s.count(".") == 0:
         s = s.replace(",", ".")
-    # Quita separadores de miles (puntos o comas) dejando el decimal
+    # Quita separadores de miles dejando los decimales
     if s.count(".") > 1:
-        parte_decimal = s.split(".")[-1]
-        parte_entera = "".join(s.split(".")[:-1])
-        s = f"{parte_entera}.{parte_decimal}"
+        decimal = s.split(".")[-1]
+        entero = "".join(s.split(".")[:-1])
+        s = f"{entero}.{decimal}"
     elif s.count(",") > 1:
-        parte_decimal = s.split(",")[-1]
-        parte_entera = "".join(s.split(",")[:-1])
-        s = f"{parte_entera}.{parte_decimal}"
+        decimal = s.split(",")[-1]
+        entero = "".join(s.split(",")[:-1])
+        s = f"{entero}.{decimal}"
     return s
 
 
@@ -89,7 +89,7 @@ def load_json(path: Path) -> List[Dict[str, Any]]:
     try:
         with path.open(encoding="utf-8") as f:
             data = json.load(f)
-        if not isinstance(data, list):  # esperamos una lista de objetos
+        if not isinstance(data, list):
             raise ValueError("El JSON de entrada debe ser un array de objetos.")
         return data
     except json.JSONDecodeError as e:
@@ -105,7 +105,7 @@ def compare(new_items: List[Dict[str, Any]], old_items: List[Dict[str, Any]]) ->
     unchanged: List[Dict[str, Any]] = []
     anomalies: List[Dict[str, Any]] = []
 
-    # Detección de duplicados dentro de cada fuente
+    # Detectar duplicados internos en cada fuente
     def detect_duplicates(items: List[Dict[str, Any]], label: str):
         seen: defaultdict[str, List[Dict[str, Any]]] = defaultdict(list)
         for it in items:
@@ -119,13 +119,14 @@ def compare(new_items: List[Dict[str, Any]], old_items: List[Dict[str, Any]]) ->
                         "reason": f"'{label}' contiene {len(lst)} entradas duplicadas para el título '{title}'",
                     }
                 )
+
     detect_duplicates(new_items, "nuevo.json")
     detect_duplicates(old_items, "viejo.json")
 
     new_map = {normalize_text(i["title"]): i for i in new_items}
     old_map = {normalize_text(i["title"]): i for i in old_items}
 
-    # Verifica cada ítem del nuevo JSON
+    # Ítems presentes en el nuevo JSON
     for key, new_it in new_map.items():
         if key not in old_map:
             to_insert.append(new_it)
@@ -140,7 +141,7 @@ def compare(new_items: List[Dict[str, Any]], old_items: List[Dict[str, Any]]) ->
                     }
                 )
 
-    # Ítems que desaparecieron
+    # Ítems que ya no existen en el nuevo JSON
     for key, old_it in old_map.items():
         if key not in new_map:
             to_remove.append(old_it)
@@ -167,7 +168,14 @@ def main():
     result = compare(new_items, old_items)
 
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Resultado escrito en {out_path}")
+
+    # Resumen en la terminal
+    print("Resultado escrito en", out_path)
+    print("\nResumen de la comparación:")
+    print(f"  Nuevos a insertar : {len(result['to_insert'])}")
+    print(f"  Para eliminar     : {len(result['to_remove'])}")
+    print(f"  Sin cambios       : {len(result['unchanged'])}")
+    print(f"  Anomalías         : {len(result['anomalies'])}")
 
 
 if __name__ == "__main__":
