@@ -52,21 +52,70 @@
   ],
   "to_remove": [
     {
+      "title": "POLERA LANILLA MORLEY",
+      "details": [
+        "Naranja Talle 4"
+      ],
+      "price": "ARS 8,000.00"
+    },
+    {
+      "title": "VESTIDO ENCAJE PAISANA",
+      "details": [
+        "Negro Talle 4 y 5"
+      ],
+      "price": "ARS 17,000.00"
+    },
+    {
       "title": "CAMISETA MORLEY CUELLO PAISANA",
       "details": [
         "Rojo Talle 2 Natural Talle 2 Negro Talle 2"
       ],
       "price": "ARS 9,500.00"
+    },
+    {
+      "title": "CONJUNTO LANILLA MORLEY",
+      "details": [
+        "Mostaza Talle 3"
+      ],
+      "price": "ARS 16,000.00"
+    },
+    {
+      "title": "REMERA CAMPANA MODAL VISCOSA",
+      "details": [
+        "*Color:* Negro Azul AGOTADO"
+      ],
+      "price": "ARS 8,500.00"
+    },
+    {
+      "title": "BODY MODAL VISCOSA c/ TUL DE PUNTOS DORADOS",
+      "details": [
+        "Negro Talle 4"
+      ],
+      "price": "ARS 10,500.00"
+    },
+    {
+      "title": "SWETER LANILLA MORLEY",
+      "details": [
+        "*Color:* Verde botella Talle 3 Gris Talle 3"
+      ],
+      "price": "ARS 10,000.00"
+    },
+    {
+      "title": "CAMPERA DE ENCAJE c/ BOLSILLOS",
+      "details": [
+        "Campera de Encaje ¡SIN FORRO! *Color:* Negro Talle 5"
+      ],
+      "price": "ARS 13,000.00"
+    },
+    {
+      "title": "CHALECO DE CORDERO",
+      "details": [
+        "Negro Talle 2"
+      ],
+      "price": "ARS 17,500.00"
     }
   ],
   "unchanged": [
-    {
-      "title": "SWETER LANILLA MORLEY COMBINADO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 12,000.00"
-    },
     {
       "title": "SWETER LANILLA ANGORA c/ PUNTILLA",
       "details": [
@@ -173,20 +222,6 @@
       "price": "ARS 12,000.00"
     },
     {
-      "title": "VESTIDO INTIWAY c/ LENTEJUELA",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 28,000.00"
-    },
-    {
-      "title": "VESTIDO TUL c/ FORRO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 18,000.00"
-    },
-    {
       "title": "REMERA PRINCESA DE MODAL VISCOSA",
       "details": [
         "Gris AGOTADO Negro Talle 3 y 4"
@@ -264,34 +299,6 @@
       "price": "ARS 10,500.00"
     },
     {
-      "title": "POLERA DE PELUCHE",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 11,000.00"
-    },
-    {
-      "title": "SWETER DE LANILLA ANGORA Y TUL c/ CAPUCHA",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 11,500.00"
-    },
-    {
-      "title": "SWETER LANILLA c/ BRILLO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 11,500.00"
-    },
-    {
-      "title": "BODY TUL BRILLOSO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 11,500.00"
-    },
-    {
       "title": "CAMISETA MODAL VISCOSA CUELLO GOTA",
       "details": [
         "Gris melange Talle 3 y 4 Natural Talle 4"
@@ -325,13 +332,6 @@
         "\"\"Poca cantidad\"\" *Color:* Verde militar Talle 2 y 3 Bordo Talle 3"
       ],
       "price": "ARS 7,000.00"
-    },
-    {
-      "title": "SWETER LANILLA ANGORA c/ ENCAJE",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 10,000.00"
     },
     {
       "title": "MAXI PALAZO WUAFLE",
@@ -397,20 +397,6 @@
       "price": "ARS 15,000.00"
     },
     {
-      "title": "CAMISETA MORLEY COMBINADO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 8,500.00"
-    },
-    {
-      "title": "CONJUNTO DE LANILLA BEACH JASPEADO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 15,000.00"
-    },
-    {
       "title": "BODY ENGOMADO c/ TUL",
       "details": [
         "Negro Talle 3 y 4"
@@ -439,13 +425,6 @@
       "price": "ARS 10,500.00"
     },
     {
-      "title": "PANTALON DE BENGALINA c/ ENGOMADO Y CIERRE",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 14,000.00"
-    },
-    {
       "title": "SWETER LANILLA c/ PUNTILLA",
       "details": [
         "Con bolsillos a los costados *Color:* Verde Talle 3"
@@ -458,13 +437,6 @@
         "OFERTA!! (talle único 3) Natural"
       ],
       "price": "ARS 18,000.00"
-    },
-    {
-      "title": "BUZO TIPO VESTIDO TRICOLOR DE MODAL FRIZADO c/ MORLEY ESTAMPADO",
-      "details": [
-        "*AGOTADO*"
-      ],
-      "price": "ARS 13,800.00"
     },
     {
       "title": "CAMISETA CORAZÓN DE ALGODÓN LYCRA",
@@ -490,25 +462,6 @@
   ],
   "anomalies": [
     {
-      "item": [
-        {
-          "title": "SWETER LANILLA MORLEY",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 10,000.00"
-        },
-        {
-          "title": "SWETER LANILLA MORLEY",
-          "details": [
-            "*Color:* Verde botella Talle 3 Gris Talle 3"
-          ],
-          "price": "ARS 10,000.00"
-        }
-      ],
-      "reason": "'viejo.json' contiene 2 entradas duplicadas para el título 'sweter lanilla morley'"
-    },
-    {
       "item": {
         "new": {
           "title": "CAMISETA MODAL SOF c/ ENGOMADO",
@@ -525,6 +478,7 @@
           "price": "ARS 5,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -544,25 +498,7 @@
           "price": "ARS 14,500.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "POLERA LANILLA MORLEY",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 8,000.00"
-        },
-        "old": {
-          "title": "POLERA LANILLA MORLEY",
-          "details": [
-            "Naranja Talle 4"
-          ],
-          "price": "ARS 8,000.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -582,6 +518,7 @@
           "price": "ARS 12,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -601,6 +538,7 @@
           "price": "ARS 10,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -620,6 +558,7 @@
           "price": "ARS 13,300.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -639,25 +578,7 @@
           "price": "ARS 10,000.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "VESTIDO ENCAJE PAISANA",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 17,000.00"
-        },
-        "old": {
-          "title": "VESTIDO ENCAJE PAISANA",
-          "details": [
-            "Negro Talle 4 y 5"
-          ],
-          "price": "ARS 17,000.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -677,6 +598,7 @@
           "price": "ARS 14,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -696,6 +618,7 @@
           "price": "ARS 14,200.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -715,6 +638,7 @@
           "price": "ARS 22,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -734,6 +658,7 @@
           "price": "ARS 11,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -753,6 +678,7 @@
           "price": "ARS 10,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -772,6 +698,7 @@
           "price": "ARS 13,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -791,6 +718,7 @@
           "price": "ARS 11,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -810,6 +738,7 @@
           "price": "ARS 16,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -829,6 +758,7 @@
           "price": "ARS 18,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -848,6 +778,7 @@
           "price": "ARS 5,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -867,25 +798,7 @@
           "price": "ARS 13,000.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "CONJUNTO LANILLA MORLEY",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 16,000.00"
-        },
-        "old": {
-          "title": "CONJUNTO LANILLA MORLEY",
-          "details": [
-            "Mostaza Talle 3"
-          ],
-          "price": "ARS 16,000.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -905,6 +818,7 @@
           "price": "ARS 11,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -924,6 +838,7 @@
           "price": "ARS 17,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -943,44 +858,7 @@
           "price": "ARS 28,200.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "REMERA CAMPANA MODAL VISCOSA",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 8,500.00"
-        },
-        "old": {
-          "title": "REMERA CAMPANA MODAL VISCOSA",
-          "details": [
-            "*Color:* Negro Azul AGOTADO"
-          ],
-          "price": "ARS 8,500.00"
-        }
-      },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "SWETER LANILLA MORLEY",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 10,000.00"
-        },
-        "old": {
-          "title": "SWETER LANILLA MORLEY",
-          "details": [
-            "*Color:* Verde botella Talle 3 Gris Talle 3"
-          ],
-          "price": "ARS 10,000.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1000,6 +878,7 @@
           "price": "ARS 16,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1019,6 +898,7 @@
           "price": "ARS 11,300.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1038,6 +918,7 @@
           "price": "ARS 11,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1057,6 +938,7 @@
           "price": "ARS 11,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1076,6 +958,7 @@
           "price": "ARS 13,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1095,6 +978,7 @@
           "price": "ARS 20,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1114,6 +998,7 @@
           "price": "ARS 16,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1133,6 +1018,7 @@
           "price": "ARS 10,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1152,25 +1038,7 @@
           "price": "ARS 14,000.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "BODY MODAL VISCOSA c/ TUL DE PUNTOS DORADOS",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 10,500.00"
-        },
-        "old": {
-          "title": "BODY MODAL VISCOSA c/ TUL DE PUNTOS DORADOS",
-          "details": [
-            "Negro Talle 4"
-          ],
-          "price": "ARS 10,500.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1190,6 +1058,7 @@
           "price": "ARS 24,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1209,6 +1078,7 @@
           "price": "ARS 7,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1228,6 +1098,7 @@
           "price": "ARS 12,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1247,6 +1118,7 @@
           "price": "ARS 12,000.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1266,6 +1138,7 @@
           "price": "ARS 16,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1285,6 +1158,7 @@
           "price": "ARS 10,300.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1304,6 +1178,7 @@
           "price": "ARS 15,500.00"
         }
       },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1323,25 +1198,7 @@
           "price": "ARS 12,000.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "CAMPERA DE ENCAJE c/ BOLSILLOS",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 13,000.00"
-        },
-        "old": {
-          "title": "CAMPERA DE ENCAJE c/ BOLSILLOS",
-          "details": [
-            "Campera de Encaje ¡SIN FORRO! *Color:* Negro Talle 5"
-          ],
-          "price": "ARS 13,000.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     },
     {
@@ -1361,25 +1218,7 @@
           "price": "ARS 13,500.00"
         }
       },
-      "reason": "Mismo título pero 'details' y/o 'price' difieren"
-    },
-    {
-      "item": {
-        "new": {
-          "title": "CHALECO DE CORDERO",
-          "details": [
-            "*AGOTADO*"
-          ],
-          "price": "ARS 17,500.00"
-        },
-        "old": {
-          "title": "CHALECO DE CORDERO",
-          "details": [
-            "Negro Talle 2"
-          ],
-          "price": "ARS 17,500.00"
-        }
-      },
+      "source": "both",
       "reason": "Mismo título pero 'details' y/o 'price' difieren"
     }
   ]
