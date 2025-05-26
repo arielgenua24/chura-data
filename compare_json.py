@@ -57,8 +57,15 @@ def normalize_text(text: str) -> str:
     return _strip_accents(normalize_whitespace(text).lower())
 
 
-def normalize_price(price: str) -> str:
-    s = normalize_whitespace(price.lower()).replace("ars", "")
+def normalize_price(price) -> str:
+    # Permitir que price sea str o int
+    if isinstance(price, (int, float)):
+        s = str(price)
+    elif isinstance(price, str):
+        s = price.lower()
+    else:
+        s = str(price)
+    s = normalize_whitespace(s).replace("ars", "")
     s = re.sub(r"[^0-9.,]", "", s)
     if s.count(",") == 1 and s.count(".") == 0:
         s = s.replace(",", ".")
@@ -181,10 +188,10 @@ def flatten_new_anomalies(anomalies: List[Dict[str, Any]]) -> List[Dict[str, Any
     return uniq
 
 
-def build_ready_list(to_insert: List[Dict[str, Any]], anomalies_new: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def build_ready_list(to_insert: List[Dict[str, Any]], anomalies_new: List[Dict[str, Any]], unchanged: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     combined = []
     seen = set()
-    for it in to_insert + anomalies_new:
+    for it in to_insert + anomalies_new + unchanged:
         k = normalize_text(it.get("title", ""))
         if k not in seen:
             combined.append(it)
@@ -208,7 +215,7 @@ def main():
 
     result = compare(new_items, old_items)
     anomalies_only_new = flatten_new_anomalies(result["anomalies"])
-    ready_items = build_ready_list(result["to_insert"], anomalies_only_new)
+    ready_items = build_ready_list(result["to_insert"], anomalies_only_new, result["unchanged"])
 
     # Salidas
     diff_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
